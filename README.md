@@ -1,2 +1,2 @@
-# Hello-Project---Raden-Fasya-Mazaya-Putri
+## Hello-Project
 Hello Project - Raden Fasya Mazaya Putri
